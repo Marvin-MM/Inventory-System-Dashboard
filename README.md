@@ -16,7 +16,7 @@ The Inventory Dashboard is designed to help users efficiently manage their inven
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inventory-management.git
+   git clone https://github.com/Marvin-MM/Inventory-System-Dashboard.git
    ```
 2. Install dependencies:
    ```bash
